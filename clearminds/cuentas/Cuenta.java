@@ -48,7 +48,7 @@ public class Cuenta {
     public void imprimir() {
         System.out.println("*******************");
         System.out.println("CUENTA");
-        System.out.println("*****");
+        System.out.println("*******************");
         System.out.println("Número de Cuenta: " + id);
         System.out.println("Tipo: " + tipo);
         System.out.println("Saldo: USD " + saldo);
